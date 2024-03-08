@@ -1,6 +1,8 @@
-Olá eu sou o Maicon 👋
+<h1>Olá eu sou o Maicon 👋</h1>
+<h2>📖Sobre mim</h2>
+Sou um estudante de Ciências da Computação focado em Segurança da Informação e programação backend 
 
- 
+
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -12,7 +14,7 @@ Olá eu sou o Maicon 👋
     ![postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
     <b>
 
-    
+Sistemas Operacionais  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
   ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
